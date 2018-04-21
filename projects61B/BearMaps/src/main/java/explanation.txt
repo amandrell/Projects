@@ -1,0 +1,3 @@
+My submission is late because I did not implement Router correctly, and had to rebuild it from scratch
+using the Priority Queues we learned about in lecture, homework and labs. I tried my own creative way but it turns
+out that it's runtime was too slow and was not industrial in any way. Thank you for the grace period.
